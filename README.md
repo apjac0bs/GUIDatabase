@@ -1,4 +1,4 @@
-# GUI Database Program
+# Sports League Tracker
 
 The content and functionality of this program were up to us! 
 
